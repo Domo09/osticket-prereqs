@@ -23,10 +23,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Install/Enable IIS
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Download/Install PHP manager for IIS and Rewrite Model
+- Download PHP and unzip into C:\PHP
+- Download/Install VC_redist
+- Download/Install MySQL (set up username and password)
+- Open IIS as admin and register PHP Then reload IIS
+- Install osTicket and extract/copy upload folder to 'wwwwroot' then rename to osTicket
+- Reload IIS then open osTicket (Browser *80)
+- Download/Install HeidiSQL then continue setting up osTicket in browser
 
 <h2>Installation Steps</h2>
 
